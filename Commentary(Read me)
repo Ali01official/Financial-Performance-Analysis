@@ -1,42 +1,30 @@
-# Client Financial Performance Analysis
+Objective;
+Financial Analysis of 6 months client wise profitability.
 
-## Objective
-Financial analysis of six months of client-wise profitability data.
+Data set;
+Financial period covering 30 clients 6 months (Jan to June) data including revenue, operational and admin expense data, gross and net profit.
 
-## Dataset
-The dataset covers financial records of 30 clients over a six-month period (January to June), including revenue, operational expenses, administrative expenses, gross profit, and net profit.
+Columns;
+Revenue, Operational cost, Gross Profit, Admin expense and net profit
 
-## Columns
-- Revenue  
-- Operational Cost  
-- Gross Profit  
-- Administrative Expense  
-- Net Profit  
+Tasks performed;
+ Analysis on the aforesaid client wise financial data comprise of calculations performed as listed below;
+1.	Gross and net profit margin ratios.
+2.	Operational and admin expense.
+3.	Client wise monthly revenue.
+4.	Month wise average net profit ratio.
+5.	Client wise monthly total revenue.
+6.	Plotting graph monthly revenue and net profit trends.
 
-## Tasks Performed
-The following analyses were conducted on the client-wise financial data:
+Tools used;
+ Python, Pandas, Jupyter.
 
-- Calculation of gross profit margin ratio  
-- Calculation of net profit margin ratio  
-- Analysis of operational and administrative expenses  
-- Client-wise monthly revenue analysis  
-- Month-wise average net profit ratio  
-- Visualization of monthly revenue and net profit trends  
+Key learning;
+Key learning involves a practice of brief data set as part of machine learning involving;
+1.	Data handling.
+2.	Successfully Importing and exporting files.
+3.	Addition and subtraction of columns in data table
+4.	Calculating and determining insights from the given information
+5.	 Application of python code as part of practice of real-world application
 
-## Tools Used
-- Python  
-- Pandas  
-- Jupyter Notebook  
-
-## Key Learnings
-This project helped develop practical skills in:
-
-- Data handling and manipulation  
-- Importing and exporting datasets  
-- Creating and modifying financial columns  
-- Performing financial calculations and deriving insights  
-- Applying Python to real-world style data analysis  
-
-## Author
-Ali Asghar
-
+Author: Ali Asghar.
