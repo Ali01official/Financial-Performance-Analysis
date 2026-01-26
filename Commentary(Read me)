@@ -1,1 +1,42 @@
+# Client Financial Performance Analysis
+
+## Objective
+Financial analysis of six months of client-wise profitability data.
+
+## Dataset
+The dataset covers financial records of 30 clients over a six-month period (January to June), including revenue, operational expenses, administrative expenses, gross profit, and net profit.
+
+## Columns
+- Revenue  
+- Operational Cost  
+- Gross Profit  
+- Administrative Expense  
+- Net Profit  
+
+## Tasks Performed
+The following analyses were conducted on the client-wise financial data:
+
+- Calculation of gross profit margin ratio  
+- Calculation of net profit margin ratio  
+- Analysis of operational and administrative expenses  
+- Client-wise monthly revenue analysis  
+- Month-wise average net profit ratio  
+- Visualization of monthly revenue and net profit trends  
+
+## Tools Used
+- Python  
+- Pandas  
+- Jupyter Notebook  
+
+## Key Learnings
+This project helped develop practical skills in:
+
+- Data handling and manipulation  
+- Importing and exporting datasets  
+- Creating and modifying financial columns  
+- Performing financial calculations and deriving insights  
+- Applying Python to real-world style data analysis  
+
+## Author
+Ali Asghar
 
