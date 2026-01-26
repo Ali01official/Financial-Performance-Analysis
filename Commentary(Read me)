@@ -1,4 +1,4 @@
-Objective: Analyzing Monthly client based financial data.
+Objective:Analyzing Monthly client based financial data.
 Data set: 6 months ,30 clients, revene, oerpational and admin expense data
 Coloumns: Revenue,oeprational cost,Gross Profit,admin expense and net profit
 Tasks performed: determining gross and net profit margin ratios, determining month wise total revenue, client wise monthly revenue and net profit,calculating monthly average net profit ratio,plotting monthy revenue and net profit trends on graph.
