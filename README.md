@@ -1,5 +1,5 @@
 # Objective
-Financial Analysis of 6 months client wise profitability.
+Financial Analysis of 6 months client wise financial data.
 
 # Data set
 Financial period covering 30 clients 6 months (Jan to June) data including revenue, operational and admin expense data, gross and net profit.
