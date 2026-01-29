@@ -14,17 +14,18 @@ Analysis on the aforesaid client wise financial data comprise of calculations pe
 3.	Client wise monthly revenue.
 4.	Month wise average net profit ratio.
 5.	Client wise monthly total revenue.
-6.	Plotting graph monthly revenue and net profit trends.
+6.	Determining average net profit per month.
+7.	Plotting graph monthly revenue and net profit trends.
 
 # Tools used
  Python, Pandas, Jupyter.
 
 # Key learning
 Key learning involves a practice of brief data set as part of machine learning involving;
-1.	Data handling.
-2.	Successfully Importing and exporting files.
-3.	Addition and subtraction of columns in data table
-4.	Calculating and determining insights from the given information
+1.	Data handling inlcuding successful importing and exporting of data accurately.
+2.	Application of coding to develope insights from the financial data.
+3.	Suplementing existing data with necessary insights to make data understanable. 
+4.	Pandas application in creating data frame necessary for analysis. 
 5.	 Application of python code as part of practice of real-world application
 
 # Author
